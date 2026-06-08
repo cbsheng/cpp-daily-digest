@@ -1,0 +1,13 @@
+date,title,url,category
+2026-06-08,Building a Fast Lock-Free Queue in Modern C++ From Scratch,https://jaysmito.dev/blog/blog/04-fast-lockfree-queues/,性能优化
+2026-06-08,Floating-Point Error Handling in C++: What Actually Works,https://johnnysswlab.com/floating-point-error-handling-in-c-what-actually-works/,性能优化
+2026-06-08,How to Avoid Thread-Safety Cost for Functions' static Variables,https://www.cppstories.com/2025/08/static-init-cost/,性能优化
+2026-06-08,Silent foe or quiet ally: Brief guide to alignment in C++. Part 3,https://pvs-studio.com/en/blog/posts/cpp/1236/,新特性实战
+2026-06-08,How to Join or Concat Ranges in C++26,https://www.cppstories.com/2026/05/join-concat-ranges/,新特性实战
+2026-06-08,C++20 Changes to std::chrono You Might Not Be Aware Of: Clocks and More,https://meetingcpp.com/blog/,新特性实战
+2026-06-08,Lightning Talk: Eight Consteval Queens and Compile-Time Printing,https://www.youtube.com/@CppCon/videos,并发与并行
+2026-06-08,Understanding std::shared_mutex from C++17,https://www.cppstories.com/2026/02/shared-mutex/,并发与并行
+2026-06-08,PVS-Studio in CMake: It's Official Now!,https://pvs-studio.com/en/blog/posts/cpp/1232/,工具与库
+2026-06-08,We Transpiled PineScript v6 to C++ So Backtests Are Actually Reproducible,https://dev.to/t/cpp,深度好文推荐
+2026-06-08,Real-World C++ Projects Built with GenAI: Do They Exist?,https://pvs-studio.com/en/blog/posts/cpp/1233/,深度好文推荐
+2026-06-08,Practical Data-Oriented Design in C++ [视频],https://www.youtube.com/watch?v=SzjJfKHygaQ,深度好文推荐
