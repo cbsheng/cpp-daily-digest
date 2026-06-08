@@ -7,7 +7,7 @@
 ## 📋 日报列表
 
 ### 2026
-- [2026-06-08](reports/2026-06-08.md) — 无锁队列、浮点错误处理、C++26 Ranges、shared_mutex、PVS-Studio CMake 集成等 14 条
+- [2026-06-08](reports/2026-06-08.md) — 无锁队列、C++26结构化绑定/hashing/HFT性能分析、Micron STL重写、Concepts向量数学库等 19 条
 
 ---
 

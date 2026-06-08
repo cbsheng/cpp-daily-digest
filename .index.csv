@@ -11,3 +11,11 @@ date,title,url,category
 2026-06-08,We Transpiled PineScript v6 to C++ So Backtests Are Actually Reproducible,https://dev.to/t/cpp,深度好文推荐
 2026-06-08,Real-World C++ Projects Built with GenAI: Do They Exist?,https://pvs-studio.com/en/blog/posts/cpp/1233/,深度好文推荐
 2026-06-08,Practical Data-Oriented Design in C++ [视频],https://www.youtube.com/watch?v=SzjJfKHygaQ,深度好文推荐
+2026-06-08,The C++ Documentary Won't Show You a Number. I Will.,https://hftuniversity.com/post/the-c-documentary-won-t-show-you-a-number-i-will,性能优化
+2026-06-08,C++26: Structured Bindings in Conditions,https://isocpp.org/blog/2026/05/cpp26-structured-bindings-in-conditions-sandor-dargo,新特性实战
+2026-06-08,Annotations for C++26 Hashing,https://isocpp.org/blog/2026/05/annotations-for-cpp26-hashing-krystian-piko,新特性实战
+2026-06-08,Micron: high performance C++23 reimplementation of Libc and STL,https://github.com/rfgplk/micron.cpp,工具与库
+2026-06-08,How Ref Qualifiers Led to Deducing This,https://isocpp.org/blog/2026/05/how-ref-qualifiers-led-to-deducing-this,深度好文推荐
+2026-06-08,Let the Compiler Check Your Units,https://isocpp.org/blog/2026/05/let-the-compiler-check-your-units-wu-yongwei,深度好文推荐
+2026-06-08,CppCon 2025 Building Vector Math Libraries with Concepts,https://isocpp.org/blog/2026/06/cppcon-2025-building-vector-math-libraries-with-concepts-customization-poin,深度好文推荐
+2026-06-08,CppCon 2025 Best Practices for AI Tool Use in C++,https://isocpp.org/blog/2026/06/cppcon-2025-best-practices-for-ai-tool-use-in-cpp-jason-turner,深度好文推荐
