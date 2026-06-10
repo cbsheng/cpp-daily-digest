@@ -19,3 +19,10 @@ date,title,url,category
 2026-06-08,Let the Compiler Check Your Units,https://isocpp.org/blog/2026/05/let-the-compiler-check-your-units-wu-yongwei,深度好文推荐
 2026-06-08,CppCon 2025 Building Vector Math Libraries with Concepts,https://isocpp.org/blog/2026/06/cppcon-2025-building-vector-math-libraries-with-concepts-customization-poin,深度好文推荐
 2026-06-08,CppCon 2025 Best Practices for AI Tool Use in C++,https://isocpp.org/blog/2026/06/cppcon-2025-best-practices-for-ai-tool-use-in-cpp-jason-turner,深度好文推荐
+2026-06-10,C++26 Reflection gives us universal template parameters,https://quuxplusone.github.io/blog/2026/06/07/meta-to/,新特性实战
+2026-06-10,How to Declare a C++ Function that Takes a Blob of Memory?,https://giodicanio.com/2026/06/05/how-to-declare-a-c-plus-plus-function-that-takes-a-blob-of-memory/,C++11实用技巧
+2026-06-10,Faking keyword arguments to functions in C++,https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html,新特性实战
+2026-06-10,C++ Performance Tips: Cutting Down on Unnecessary Objects,https://isocpp.org/blog/2026/06/cppcon-2025-cutting-down-on-unnecessary-objects-prithvi-okade-kathleen-baker,性能优化
+2026-06-10,The smallest C binary,https://blog.weineng.me/posts/smallest_c,性能优化
+2026-06-10,Magic Enum: Header-only C++17 enum reflection,https://github.com/Neargye/magic_enum,工具与库
+2026-06-10,ConjureEnum: C++20 enum and typename reflection,https://github.com/fix8mt/conjure_enum,工具与库
