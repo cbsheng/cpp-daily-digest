@@ -29,3 +29,8 @@ date,title,url,category
 2026-06-11,C++26: Cleaning up string literals,https://www.sandordargo.com/blog/2026/06/10/cpp26-string-literals-cleaned-up,新特性实战
 2026-06-11,Fast Branchless Quicksort Using Sorting-Networks,https://tiki.li/blog/blqsort,性能优化
 2026-06-11,CppCon 2025 Cache-Friendly C++ -- Jonathan Müller,https://isocpp.org//blog/2026/06/cppcon-2025-cache-friendly-cpp-jonathan-mueller,性能优化
+2026-06-11,C++: The Documentary 正式发布,https://herbsutter.com/2026/06/04/c-the-documentary-released-today/,深度好文推荐
+2026-06-11,深度分析：OpenCL 和 CUDA C++ 替代方案为何未能主导 AI 计算,https://www.modular.com/blog/democratizing-ai-compute-part-5-what-about-cuda-c-alternatives,深度好文推荐
+2026-06-11,Asryx：零依赖 C++ 本地语音识别（ASR）工具,https://github.com/rccyx/asryx,工具与库
+2026-06-11,C++ STL Container Complexities 速查表,https://alyssaq.github.io/stl-complexities/,工具与库
+2026-06-11,C++: The Documentary,https://isocpp.org//blog/2026/06/cpp-the-documentary,深度好文推荐
