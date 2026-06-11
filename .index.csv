@@ -26,3 +26,6 @@ date,title,url,category
 2026-06-10,The smallest C binary,https://blog.weineng.me/posts/smallest_c,性能优化
 2026-06-10,Magic Enum: Header-only C++17 enum reflection,https://github.com/Neargye/magic_enum,工具与库
 2026-06-10,ConjureEnum: C++20 enum and typename reflection,https://github.com/fix8mt/conjure_enum,工具与库
+2026-06-11,C++26: Cleaning up string literals,https://www.sandordargo.com/blog/2026/06/10/cpp26-string-literals-cleaned-up,新特性实战
+2026-06-11,Fast Branchless Quicksort Using Sorting-Networks,https://tiki.li/blog/blqsort,性能优化
+2026-06-11,CppCon 2025 Cache-Friendly C++ -- Jonathan Müller,https://isocpp.org//blog/2026/06/cppcon-2025-cache-friendly-cpp-jonathan-mueller,性能优化
