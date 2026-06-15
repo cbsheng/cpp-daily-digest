@@ -44,3 +44,7 @@ date,title,url,category
 2026-06-14,Orthodox C++ (2016),https://bkaradzic.github.io/posts/orthodoxc++/,C++11实用技巧
 2026-06-14,s3cpp: Lightweight C++23 S3 client,https://github.com/ggcr/s3cpp,工具与库
 2026-06-14,What science can tell us about C and C++'s security,https://alexgaynor.net/2020/may/27/science-on-memory-unsafety-and-security/,深度好文推荐
+2026-06-15,Parsing JSON at compile time with C++26 static reflection,https://lemire.me/blog/2026/06/14/parsing-json-at-compile-time-with-c26-static-reflection/,新特性实战
+2026-06-15,locate-anything.cpp,https://github.com/mudler/locate-anything.cpp,工具与库
+2026-06-15,Velo non-linear video editor,https://github.com/notune/velo,工具与库
+2026-06-15,Meeting C++ 2026 voting,https://isocpp.org//blog/2026/06/the-voting-on-the-talks-for-meeting-cpp-2026-has-begun,深度好文推荐

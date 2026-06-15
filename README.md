@@ -7,6 +7,7 @@
 ## 📋 日报列表
 
 ### 2026
+- [2026-06-15](reports/2026-06-15.md) — C++26编译期JSON解析(静态反射)、locate-anything.cpp ggml移植、Velo视频编辑器(C++20/Qt6)、Meeting C++ 2026投票 共 4 条
 - [2026-06-14](reports/2026-06-14.md) — C++29布尔诺会议报告(UB目录/虚函数Contracts/=default后置自增/基类指定初始化)、Orthodox C++经典指南、s3cpp C++23 S3客户端、C/C++内存安全实证分析 共 4 条
 - [2026-06-13](reports/2026-06-13.md) — C++26结构化绑定引入Pack、best STL替换库、C/C++ Users Journal消失史 共 3 条
 - [2026-06-12](reports/2026-06-12.md) — C++23可微刚体动力学库(ARB)、Quilt.cpp补丁管理工具、C++书籍封面趣谈 共 3 条
