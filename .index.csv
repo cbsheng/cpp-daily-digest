@@ -48,3 +48,6 @@ date,title,url,category
 2026-06-15,locate-anything.cpp,https://github.com/mudler/locate-anything.cpp,工具与库
 2026-06-15,Velo non-linear video editor,https://github.com/notune/velo,工具与库
 2026-06-15,Meeting C++ 2026 voting,https://isocpp.org//blog/2026/06/the-voting-on-the-talks-for-meeting-cpp-2026-has-begun,深度好文推荐
+2026-06-16,GCC 16 新特性：改进的错误消息与 SARIF 输出,https://isocpp.org//blog/2026/06/new-features-in-gcc-16-improved-error-messages-and-sarif-output-david-malco,工具与库
+2026-06-16,Luz：纯 C++20 从头实现的光线追踪器,https://github.com/themartiano/luz,工具与库
+2026-06-16,FlashQwen：零外部依赖的 C++/CUDA Qwen3-8B 推理引擎,https://github.com/frankkk96/FlashQwen,工具与库
