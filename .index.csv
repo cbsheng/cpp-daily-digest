@@ -55,3 +55,6 @@ date,title,url,category
 2026-06-18,《Memory Management in C++》by Patrice Roy — 书评,https://www.sandordargo.com/blog/2026/06/17/memory-managenent-by-patrice-roy,深度好文推荐
 2026-06-18,从 C++17 到 C++23 的函数组合,https://freshsources.com/code-capsules/composing-functions/,深度好文推荐
 2026-06-18,privacy-filter.cpp：OpenAI 隐私过滤 NER 的 C++/GGML 实现,https://github.com/localai-org/privacy-filter.cpp,工具与库
+2026-06-19,C++29 最大亮点已可查阅？全面列出所有 UB 的 Annex,https://www.meetingcpp.com/blog/items/One-of-the-best-Cpp29-features-is-already-available-.html,新特性实战
+2026-06-19,maybe_ptr：用 range-for 语法优雅处理可空指针,https://lzon.ca/posts/tips/cpp-maybe-type/,C++11实用技巧
+2026-06-19,YaFF：Yandex 开源高性能零拷贝 Protobuf 序列化库,https://github.com/yandex/yaff,工具与库
