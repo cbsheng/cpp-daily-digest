@@ -7,6 +7,7 @@
 ## 📋 日报列表
 
 ### 2026
+- [2026-06-20](reports/2026-06-20.md) — CPU操作耗时速查图(第4章第2部分)、P3100R6系统性UB治理框架(C++29目标) 共 2 条
 - [2026-06-19](reports/2026-06-19.md) — C++29 UB Annex清单、maybe_ptr空指针语法糖、Yandex YaFF零拷贝序列化库 共 3 条
 - [2026-06-18](reports/2026-06-18.md) — GCC 17 C++29基础设施、Patrice Roy内存管理书评、C++17→C++23函数组合、privacy-filter.cpp GGML NER实现 共 4 条
 - [2026-06-16](reports/2026-06-16.md) — GCC 16 错误消息与SARIF输出、Luz C++20光线追踪器、FlashQwen C++/CUDA推理引擎 共 3 条
