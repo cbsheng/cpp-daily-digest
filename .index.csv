@@ -60,3 +60,4 @@ date,title,url,category
 2026-06-19,YaFF：Yandex 开源高性能零拷贝 Protobuf 序列化库,https://github.com/yandex/yaff,工具与库
 2026-06-20,操作耗时速查图（第二版）：现代 CPU 时钟周期大全,https://6it.dev/blog/infographics-operation-costs-in-cpu-clock-cycles-take-2-80736,性能优化
 2026-06-20,P3100R6：系统性消除 C++ 标准未定义行为的整体框架,https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2026/p3100r6.pdf,新特性实战
+2026-06-21,BytePack：面向 MCU 的 Header-only C++17 序列化库,https://github.com/alkonosst/BytePack,工具与库
