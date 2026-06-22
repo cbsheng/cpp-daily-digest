@@ -7,6 +7,7 @@
 ## 📋 日报列表
 
 ### 2026
+- [2026-06-22](reports/2026-06-22.md) — C++26 std::format 改进（指针/路径格式化）、CUDA C++ Haversine大圆距离优化、Horus零依赖安全分析CLI 共 3 条
 - [2026-06-21](reports/2026-06-21.md) — BytePack：面向 MCU 的 Header-only C++17 序列化库 共 1 条
 - [2026-06-20](reports/2026-06-20.md) — CPU操作耗时速查图(第4章第2部分)、P3100R6系统性UB治理框架(C++29目标) 共 2 条
 - [2026-06-19](reports/2026-06-19.md) — C++29 UB Annex清单、maybe_ptr空指针语法糖、Yandex YaFF零拷贝序列化库 共 3 条
