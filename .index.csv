@@ -64,3 +64,6 @@ date,title,url,category
 2026-06-22,C++26 std::format 改进：空行输出、指针格式化、路径格式化,https://mariusbancila.ro/blog/2026/06/19/improvements-to-stdformat-in-c26/,新特性实战
 2026-06-22,CUDA C++ 中大圆距离计算的快速实现,https://developer.nvidia.com/blog/fast-great-circle-distance-calculation-cuda-c/,性能优化
 2026-06-22,Horus — 零依赖 C++17 Windows 安全分析 CLI,https://github.com/mobinert/horus,工具与库
+2026-06-23,Arma: Cold War Assault Remastered 引擎源码开源,https://github.com/BohemiaInteractive/CWR,工具与库
+2026-06-23,AirPlay 2 Sender for C++ — 加密RAOP/RTSP实现,https://github.com/akustikrausch/airplay2-sender-cpp,工具与库
+2026-06-23,The Room — 关于C++标准委员会内部生活的小说,https://wg21.org/books/,深度好文推荐
