@@ -67,3 +67,7 @@ date,title,url,category
 2026-06-23,Arma: Cold War Assault Remastered 引擎源码开源,https://github.com/BohemiaInteractive/CWR,工具与库
 2026-06-23,AirPlay 2 Sender for C++ — 加密RAOP/RTSP实现,https://github.com/akustikrausch/airplay2-sender-cpp,工具与库
 2026-06-23,The Room — 关于C++标准委员会内部生活的小说,https://wg21.org/books/,深度好文推荐
+2026-06-24,C++ Lifetime-End Pointer-Zap and OOTA Progress,https://people.kernel.org/paulmck/c-pointer-zap-and-oota-progress,并发与并行
+2026-06-24,Two Indexed Hash Tables,https://vnmakarov.github.io/data%20structures/c/c++/open-source/2026/06/23/two-indexed-hash-tables.html,性能优化
+2026-06-24,Kinoko Mario Kart Wii physics engine C++ reimplementation,https://github.com/vabold/Kinoko,工具与库
+2026-06-24,How Small Can a C++ Unit Test Framework Be?,https://freshsources.com/code-capsules/test-part1/,C++11实用技巧
