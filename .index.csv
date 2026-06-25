@@ -71,3 +71,7 @@ date,title,url,category
 2026-06-24,Two Indexed Hash Tables,https://vnmakarov.github.io/data%20structures/c/c++/open-source/2026/06/23/two-indexed-hash-tables.html,性能优化
 2026-06-24,Kinoko Mario Kart Wii physics engine C++ reimplementation,https://github.com/vabold/Kinoko,工具与库
 2026-06-24,How Small Can a C++ Unit Test Framework Be?,https://freshsources.com/code-capsules/test-part1/,C++11实用技巧
+2026-06-25,GCC C/C++ Vector Extensions: portable SIMD,https://gcc.gnu.org/onlinedocs/gcc/Vector-Extensions.html,性能优化
+2026-06-25,C++ ALNS routing engine: LEO satellite 49ms,https://www.youtube.com/watch?v=6xXRh7PC7nI,性能优化
+2026-06-25,Fail-safe Application Logger crash protection,https://github.com/wandi-ssal/fail-safe-application-logger,工具与库
+2026-06-25,CppCon 2025 Libc++ design and optimisations,https://isocpp.org//blog/2026/06/cppcon-2025-cpp-standard-librarydesign-optimisations-testing-while-implemen,深度好文推荐

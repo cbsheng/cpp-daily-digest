@@ -7,6 +7,7 @@
 ## 📋 日报列表
 
 ### 2026
+- [2026-06-25](reports/2026-06-25.md) — GCC Vector Extensions 便携 SIMD、C++ ALNS 卫星路由 49ms、Fail-safe 日志防崩溃库、CppCon Libc++ 实现优化 共 4 条
 - [2026-06-24](reports/2026-06-24.md) — C++29 Pointer-Zap/OOTA 进展(Paul McKenney)、Two Indexed Hash Tables(Vladimir Makarov)、Kinoko 物理引擎(C++23)、最小单元测试框架 共 4 条
 - [2026-06-23](reports/2026-06-23.md) — Arma CWR 引擎源码开源(C++20)、AirPlay 2 C++ 发送器实现、The Room C++委员会小说 共 3 条
 - [2026-06-22](reports/2026-06-22.md) — C++26 std::format 改进（指针/路径格式化）、CUDA C++ Haversine大圆距离优化、Horus零依赖安全分析CLI 共 3 条
