@@ -75,3 +75,7 @@ date,title,url,category
 2026-06-25,C++ ALNS routing engine: LEO satellite 49ms,https://www.youtube.com/watch?v=6xXRh7PC7nI,性能优化
 2026-06-25,Fail-safe Application Logger crash protection,https://github.com/wandi-ssal/fail-safe-application-logger,工具与库
 2026-06-25,CppCon 2025 Libc++ design and optimisations,https://isocpp.org//blog/2026/06/cppcon-2025-cpp-standard-librarydesign-optimisations-testing-while-implemen,深度好文推荐
+2026-06-26,A value_lock type for C++,https://lzon.ca/posts/tips/cpp-value-lock-type/,并发与并行
+2026-06-26,"C++23 - The Complete Guide draft ebook is out -- Nicolai Josuttis",https://isocpp.org//blog/2026/06/cpp23-the-complete-guide-draft-ebook-is-out,新特性实战
+2026-06-26,"Cascade Router: bare-metal C++ LLM routing proxy",https://github.com/Cascade-Router/cascade-router,工具与库
+2026-06-26,"CppCon 2026 first-ever keynote panel: Stroustrup, van Rossum, Torgersen",https://isocpp.org//blog/2026/06/cppcons-first-ever-keynote-panel-stroustrup-van-rossum-and-torgersen-togeth,深度好文推荐
