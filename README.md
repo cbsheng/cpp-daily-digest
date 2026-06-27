@@ -7,7 +7,8 @@
 ## 📋 日报列表
 
 ### 2026
-|- [2026-06-26](reports/2026-06-26.md) — value_lock 类型安全加锁 RAII 模式、C++23 Complete Guide 草稿电子书、Cascade C++ LLM 路由代理(~4.6ms)、CppCon 2026 Stroustrup/van Rossum/Torgersen 圆桌 共 4 条
+|- [2026-06-27](reports/2026-06-27.md) — hopscotch-map 高性能哈希映射(C++17)、Rare工作室/W4/WX质量之旅、Meeting C++ 2026议程、C++纪录片小组讨论 共 4 条
+||- [2026-06-26](reports/2026-06-26.md) — value_lock 类型安全加锁 RAII 模式、C++23 Complete Guide 草稿电子书、Cascade C++ LLM 路由代理(~4.6ms)、CppCon 2026 Stroustrup/van Rossum/Torgersen 圆桌 共 4 条
 |- [2026-06-25](reports/2026-06-25.md) — GCC Vector Extensions 便携 SIMD、C++ ALNS 卫星路由 49ms、Fail-safe 日志防崩溃库、CppCon Libc++ 实现优化 共 4 条
 - [2026-06-24](reports/2026-06-24.md) — C++29 Pointer-Zap/OOTA 进展(Paul McKenney)、Two Indexed Hash Tables(Vladimir Makarov)、Kinoko 物理引擎(C++23)、最小单元测试框架 共 4 条
 - [2026-06-23](reports/2026-06-23.md) — Arma CWR 引擎源码开源(C++20)、AirPlay 2 C++ 发送器实现、The Room C++委员会小说 共 3 条

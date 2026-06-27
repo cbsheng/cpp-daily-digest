@@ -79,3 +79,7 @@ date,title,url,category
 2026-06-26,"C++23 - The Complete Guide draft ebook is out -- Nicolai Josuttis",https://isocpp.org//blog/2026/06/cpp23-the-complete-guide-draft-ebook-is-out,新特性实战
 2026-06-26,"Cascade Router: bare-metal C++ LLM routing proxy",https://github.com/Cascade-Router/cascade-router,工具与库
 2026-06-26,"CppCon 2026 first-ever keynote panel: Stroustrup, van Rossum, Torgersen",https://isocpp.org//blog/2026/06/cppcons-first-ever-keynote-panel-stroustrup-van-rossum-and-torgersen-togeth,深度好文推荐
+2026-06-27,hopscotch-map：基于 Hopscotch Hashing 的高性能哈希映射,https://github.com/Tessil/hopscotch-map,工具与库
+2026-06-27,从 C++14 升级到 C++20：Rare 工作室的 /W4 /WX 之旅,https://isocpp.org//blog/2026/06/becpp-symposium-2026-keith-stockdale-the-journey-to-w4-wx-how-hard-could-it,工程质量
+2026-06-27,Meeting C++ 2026 首批议程公布,https://isocpp.org//blog/2026/06/a-first-look-at-the-program-of-meeting-cpp-2026,深度好文推荐
+2026-06-27,C++: The Documentary 纽约首映后的专家小组讨论,https://isocpp.org//blog/2026/06/panel-discussion-for-cpp-the-documentary,深度好文推荐
