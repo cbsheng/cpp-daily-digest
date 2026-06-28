@@ -83,3 +83,8 @@ date,title,url,category
 2026-06-27,从 C++14 升级到 C++20：Rare 工作室的 /W4 /WX 之旅,https://isocpp.org//blog/2026/06/becpp-symposium-2026-keith-stockdale-the-journey-to-w4-wx-how-hard-could-it,工程质量
 2026-06-27,Meeting C++ 2026 首批议程公布,https://isocpp.org//blog/2026/06/a-first-look-at-the-program-of-meeting-cpp-2026,深度好文推荐
 2026-06-27,C++: The Documentary 纽约首映后的专家小组讨论,https://isocpp.org//blog/2026/06/panel-discussion-for-cpp-the-documentary,深度好文推荐
+2026-06-28,C++26: string and string_view improvements,https://isocpp.org//blog/2026/06/cpp26-string-and-string-view-improvements-sandor-dargo,新特性实战
+2026-06-28,CppCon 2025 Lazy and Fast: Ranges Meet Parallelism in C++,https://isocpp.org//blog/2026/06/cppcon-2025-lazy-and-fast-ranges-meet-parallelism-in-cpp-daniel-anderson,性能优化
+2026-06-28,CppCon 2025 How to Tame Packs std::tuple & integer_sequence,https://isocpp.org//blog/2026/06/cppcon-2025-how-to-tame-packs-stdtuple-the-wily-stdinteger-sequence-andrei,深度好文推荐
+2026-06-28,audio.cpp: 纯C++ ggml音频推理引擎,https://github.com/0xShug0/audio.cpp,工具与库
+2026-06-28,Agentic Time-Travel Debugging (BeCPP 2026),https://isocpp.org//blog/2026/06/becpp-symposium-2026-chris-croft-white-agentic-time-travel-debugging,深度好文推荐
