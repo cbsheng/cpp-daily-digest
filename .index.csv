@@ -88,3 +88,5 @@ date,title,url,category
 2026-06-28,CppCon 2025 How to Tame Packs std::tuple & integer_sequence,https://isocpp.org//blog/2026/06/cppcon-2025-how-to-tame-packs-stdtuple-the-wily-stdinteger-sequence-andrei,深度好文推荐
 2026-06-28,audio.cpp: 纯C++ ggml音频推理引擎,https://github.com/0xShug0/audio.cpp,工具与库
 2026-06-28,Agentic Time-Travel Debugging (BeCPP 2026),https://isocpp.org//blog/2026/06/becpp-symposium-2026-chris-croft-white-agentic-time-travel-debugging,深度好文推荐
+2026-06-29,Streamline C++ Code Intelligence Setup in Copilot CLI,https://devblogs.microsoft.com/cppblog/streamline-c-code-intelligence-setup-in-copilot-cli/,工具与库
+2026-06-29,Tsar-MCP: Create MCPServer Aspect in C/C++,https://ibm.github.io/tsar-mcp/mcp/doc/MCPServer_AspectGuide.html,工具与库
