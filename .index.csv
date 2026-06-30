@@ -90,3 +90,6 @@ date,title,url,category
 2026-06-28,Agentic Time-Travel Debugging (BeCPP 2026),https://isocpp.org//blog/2026/06/becpp-symposium-2026-chris-croft-white-agentic-time-travel-debugging,深度好文推荐
 2026-06-29,Streamline C++ Code Intelligence Setup in Copilot CLI,https://devblogs.microsoft.com/cppblog/streamline-c-code-intelligence-setup-in-copilot-cli/,工具与库
 2026-06-29,Tsar-MCP: Create MCPServer Aspect in C/C++,https://ibm.github.io/tsar-mcp/mcp/doc/MCPServer_AspectGuide.html,工具与库
+2026-06-30,"Automated Unit Testing On-The-Cheap: Part 1",https://freshsources.com/code-capsules/test-part1/,C++11实用技巧
+2026-06-30,"Silent foe or quiet ally: Brief guide to alignment in C++. Part 3",https://pvs-studio.com/en/blog/posts/cpp/1369/,性能优化
+2026-06-30,"CppCon 2025 Back to Basics: Master C++ Friendship",https://isocpp.org//blog/2026/05/cppcon-2025-back-to-basics-master-cpp-friendship-mateusz-pusz,深度好文推荐

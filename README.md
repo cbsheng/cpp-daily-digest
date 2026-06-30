@@ -7,7 +7,8 @@
 ## 📋 日报列表
 
 ### 2026
-||- [2026-06-29](reports/2026-06-29.md) — Copilot CLI C++语义智能配置、IBM零依赖MCP服务器框架(C/C++) 共 2 条
+|||- [2026-06-30](reports/2026-06-30.md) — 单头文件单元测试框架、Alignment与虚函数内存布局、C++ Friendship深入解析 共 3 条
+|||- [2026-06-29](reports/2026-06-29.md) — Copilot CLI C++语义智能配置、IBM零依赖MCP服务器框架(C/C++) 共 2 条
 ||- [2026-06-28](reports/2026-06-28.md) — C++26 string_view改进(P2495R3)、Ranges+并行Pipeleine、Andrei Alexandrescu元编程、audio.cpp纯C++音频推理引擎、Agentic时序回溯调试 共 5 条
 ||- [2026-06-27](reports/2026-06-27.md) — hopscotch-map 高性能哈希映射(C++17)、Rare工作室/W4/WX质量之旅、Meeting C++ 2026议程、C++纪录片小组讨论 共 4 条
 ||- [2026-06-26](reports/2026-06-26.md) — value_lock 类型安全加锁 RAII 模式、C++23 Complete Guide 草稿电子书、Cascade C++ LLM 路由代理(~4.6ms)、CppCon 2026 Stroustrup/van Rossum/Torgersen 圆桌 共 4 条
