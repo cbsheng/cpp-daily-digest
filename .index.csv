@@ -28,7 +28,7 @@ date,title,url,category
 2026-06-10,ConjureEnum: C++20 enum and typename reflection,https://github.com/fix8mt/conjure_enum,工具与库
 2026-06-11,C++26: Cleaning up string literals,https://www.sandordargo.com/blog/2026/06/10/cpp26-string-literals-cleaned-up,新特性实战
 2026-06-11,Fast Branchless Quicksort Using Sorting-Networks,https://tiki.li/blog/blqsort,性能优化
-2026-06-11,CppCon 2025 Cache-Friendly C++ -- Jonathan Müller,https://isocpp.org//blog/2026/06/cppcon-2025-cache-friendly-cpp-jonathan-mueller,性能优化
+2026-06-11,CppCon 2025 Cache-Friendly C++ -- Jonathan Mueller,https://isocpp.org//blog/2026/06/cppcon-2025-cache-friendly-cpp-jonathan-mueller,性能优化
 2026-06-11,C++: The Documentary 正式发布,https://herbsutter.com/2026/06/04/c-the-documentary-released-today/,深度好文推荐
 2026-06-11,深度分析：OpenCL 和 CUDA C++ 替代方案为何未能主导 AI 计算,https://www.modular.com/blog/democratizing-ai-compute-part-5-what-about-cuda-c-alternatives,深度好文推荐
 2026-06-11,Asryx：零依赖 C++ 本地语音识别（ASR）工具,https://github.com/rccyx/asryx,工具与库
@@ -93,3 +93,6 @@ date,title,url,category
 2026-06-30,"Automated Unit Testing On-The-Cheap: Part 1",https://freshsources.com/code-capsules/test-part1/,C++11实用技巧
 2026-06-30,"Silent foe or quiet ally: Brief guide to alignment in C++. Part 3",https://pvs-studio.com/en/blog/posts/cpp/1369/,性能优化
 2026-06-30,"CppCon 2025 Back to Basics: Master C++ Friendship",https://isocpp.org//blog/2026/05/cppcon-2025-back-to-basics-master-cpp-friendship-mateusz-pusz,深度好文推荐
+2026-07-01,"CppCon 2025 Joy of C++26 Contracts - Myths, Misconceptions & Defensive Programming (Herb Sutter)",https://isocpp.org//blog/2026/06/cppcon-2025-joy-of-cpp26-contracts-myths-misconceptions-defensive-programmi,新特性实战
+2026-07-01,"prima.cpp: Fast 30-70B LLM inference on heterogeneous home devices",https://github.com/OpenCPIL/prima.cpp,工具与库
+2026-07-01,"Save the Date: Pure Virtual C++ 2026",https://isocpp.org//blog/2026/06/save-the-date-pure-virtual-cpp-2026,深度好文推荐
