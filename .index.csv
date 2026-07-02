@@ -96,3 +96,6 @@ date,title,url,category
 2026-07-01,"CppCon 2025 Joy of C++26 Contracts - Myths, Misconceptions & Defensive Programming (Herb Sutter)",https://isocpp.org//blog/2026/06/cppcon-2025-joy-of-cpp26-contracts-myths-misconceptions-defensive-programmi,新特性实战
 2026-07-01,"prima.cpp: Fast 30-70B LLM inference on heterogeneous home devices",https://github.com/OpenCPIL/prima.cpp,工具与库
 2026-07-01,"Save the Date: Pure Virtual C++ 2026",https://isocpp.org//blog/2026/06/save-the-date-pure-virtual-cpp-2026,深度好文推荐
+2026-07-02,"C++26: constexpr virtual inheritance",https://www.sandordargo.com/blog/2026/07/01/cpp26-constexpr-virtual-inheritance,新特性实战
+2026-07-02,"memkit - Embedded systems container library",https://github.com/jameslavrenz/memkit,工具与库
+2026-07-02,"Decomp Academy - Learn matching decompilation",https://decomp-academy.dev,深度好文推荐

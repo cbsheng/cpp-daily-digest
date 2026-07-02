@@ -7,6 +7,7 @@
 ## 📋 日报列表
 
 ### 2026
+||||- [2026-07-02](reports/2026-07-02.md) — C++26 constexpr虚继承(P3533R2，开辟iostream编译期道路)、memkit嵌入式零开销容器库(32+容器/双API)、Decomp Academy游戏反编译学习平台 共 3 条
 ||||- [2026-07-01](reports/2026-07-01.md) — C++26 Contracts神话与真相(Herb Sutter)、prima.cpp分布式异构LLM推理(15x加速)、Pure Virtual C++ 2026免费线上会议 共 3 条
 ||||- [2026-06-30](reports/2026-06-30.md) — 单头文件单元测试框架、Alignment与虚函数内存布局、C++ Friendship深入解析 共 3 条
 |||- [2026-06-29](reports/2026-06-29.md) — Copilot CLI C++语义智能配置、IBM零依赖MCP服务器框架(C/C++) 共 2 条
